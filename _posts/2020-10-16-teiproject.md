@@ -1,3 +1,5 @@
+--- 
+### TEI Project 
 ---
 Our TEI project required us to use read “The Yellow Wallpaper” by Charlotte Perkins Stetson and breakdown sections and correct any mistakes present in her writing. The next step of this project was to break our section down on a Google Doc and find each paragraph, line break, em dash, italics, and mistakes present as to prepare it for proper coding. We then were required to use the coding platform Oxygen to properly markup and code this piece. Oxygen was a new program for me. I was under the impression that all coding was ‘markup’ so the new coding and new requirements for using Oxygen were confusing and a little stressful. When I began editing my section of “The Yellow Wallpaper” I used the markup codes I had learned previously but was saddened to see these did not work in Oxygen. This was the original picture of the piece. ![Original Piece](https://hannahfulk.github.io/hannah/images/OriginalPiece.JPG)
 
