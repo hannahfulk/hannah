@@ -1,7 +1,9 @@
 ## **Grant Project Progress Update**
--
+
 My grant project has progressed immensely since the last post on this blog. I have made my project more centralized and focused on a smaller scope of ideas. I am now focusing on communication technology advancements in Virginia colleges and universities throughout the past 20 years. 
+
 This is different from my original plan of looking at technology in general over 50 years. My topic was far too broad before, but thankfully now there is easier access to centralized information from the different schools in Virginia. Since changing the exploration of general technology to communication technology I have also found it easier to brainstorm and find information that aids to the overall grant’s scope. This focus has also allowed me to tie my major, communication, into my research and aspirations for the grant. I see the value in working with material you are passionate about. 
+
 The only unfortunate part of shifting my initial focus was that I will no longer be able to recommend the use of The Campus Computing Project for specific research. This is because that project is not focused on Virginia Institutions, but instead, looks at many different institutions across the United States. However, since there are not too too many Virginia institutions, pulling information from them should be easier. With this focus the grant will also be able to take a deeper look into major universities and colleges. 
 
 I have had a lot of ideas bouncing around in my head when constructing this project and it has blossomed immensely since my original idea. As seen below, in October my project was not solidified at all and was extremely vague. 
