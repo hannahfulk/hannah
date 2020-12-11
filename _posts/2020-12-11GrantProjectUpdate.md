@@ -1,5 +1,4 @@
-##
-Grant Project Progress Update 
+##**Grant Project Progress Update** 
 -
 My grant project has progressed immensely since the last post on this blog. I have made my project more centralized and focused on a smaller scope of ideas. I am now focusing on communication technology advancements in Virginia colleges and universities throughout the past 20 years. 
 This is different from my original plan of looking at technology in general over 50 years. My topic was far too broad before, but thankfully now there is easier access to centralized information from the different schools in Virginia. Since changing the exploration of general technology to communication technology I have also found it easier to brainstorm and find information that aids to the overall grant’s scope. This focus has also allowed me to tie my major, communication, into my research and aspirations for the grant. I see the value in working with material you are passionate about. 
